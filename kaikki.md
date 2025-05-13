@@ -1,6 +1,6 @@
 ---
 title: Kaikki materiaali
-permalink: /kaikki
+permalink: /kaikki/
 hide: true
 
 layout: collection
