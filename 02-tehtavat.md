@@ -9,7 +9,7 @@ Kurssi suoritetaan ratkomalla tehtäviä. Kaikki tehtävät tulee ratkaista itse
 
 Kaikissa tehtävissä voit lähettää vastauksia uudestaan ilman rajoituksia eikä yritysten määrä vaikuta pisteisiin.
 
-Kaikkien kurssin tehtävien deadline on su 24.6.2025 klo 23:59.
+Kaikkien kurssin tehtävien deadline on ti 24.6.2025 klo 23:59.
 
 ## SQL-tehtävät
 
