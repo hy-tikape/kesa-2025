@@ -11,7 +11,7 @@ Kesällä 2025 kurssi järjestetään samalla tavalla Helsingin yliopiston tutki
 
 [Kysymyksiä ja vastauksia](kysymykset)
 
-Kurssin aloitusluento on pe 2.5.2025 klo 16:30-18:00 Chemicumin salissa A129.
+Kurssin aloitusluento on pe 2.5.2025 klo 16:30–18:00 Chemicumin salissa A129.
 
 Kurssin ohjaus järjestetään [Discordissa](https://study.cs.helsinki.fi/discord/join/tikape), jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa.
 
